@@ -1,4 +1,4 @@
-![Background](Background.png)
+![Background](BackgroundImage.png)
 
 # 👩‍💻 About me
 
