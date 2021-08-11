@@ -7,7 +7,7 @@ My name is Aleksandra Generowicz and I am a third year student of Applied Comput
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/o.generowicz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-## 📲 Tech stack using for IOS development
+## 📲 Tech stack used for IOS development
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![CocoaPods](https://img.shields.io/badge/CocoaPods-%23E99497?style=for-the-badge&logo=CocoaPods&logoColor=white)
