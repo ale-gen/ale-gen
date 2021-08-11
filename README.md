@@ -4,8 +4,10 @@
 
 My name is Aleksandra Generowicz and I am a third year student of Applied Computer Science at Wrocław University of Science and Technology. Despite some experience with programming languages like Python or Java, I have started learning Swift to develop my own applications on IOS. Quickly I understood, that was it. Currently, I constantly broaden my knowledge to build more and more incredible apps with beautiful design!
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/o.generowicz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+ <a href="https://www.linkedin.com/in/aleksandra-generowicz-6a7645215/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:o.generowicz@gmail.com"><img src="https://img.shields.io/badge/o.generowicz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 
 ## 📲 Tech stack used for IOS development
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
