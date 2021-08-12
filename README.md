@@ -19,6 +19,7 @@ My name is Aleksandra Generowicz and I am a third year student of Applied Comput
 ![CoreData](https://img.shields.io/badge/coredata-%23002366.svg?style=for-the-badge&logo=coreData&logoColor=white)
 ![CoreML](https://img.shields.io/badge/coreml-%2371EFA3.svg?style=for-the-badge&logo=coreml&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## 💻 Other tech stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
