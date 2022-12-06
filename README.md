@@ -2,7 +2,7 @@
 
 # 👩‍💻 About me
 
-My name is Aleksandra Generowicz and I am a third year student of Applied Computer Science at Wrocław University of Science and Technology. Despite some experience with programming languages like Python or Java, I have started learning Swift to develop my own applications on IOS. Quickly I understood, that was it. Currently, I constantly broaden my knowledge to build more and more incredible apps with beautiful design!
+My name is Aleksandra Generowicz and I am the last semester's student of Bachelor degree of Applied Computer Science at Wrocław University of Science and Technology. Despite some experience with programming languages like Python or Java, I have started learning Swift to develop my own applications on iOS. Quickly I understood, that was it. Currently, I constantly broaden my knowledge to build more and more incredible apps with beautiful design!
 
 
  <a href="https://www.linkedin.com/in/aleksandra-generowicz-6a7645215/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
